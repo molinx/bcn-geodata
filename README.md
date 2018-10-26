@@ -3,46 +3,46 @@ Barcelona Geodata
 The official shapefiles from Barcelona, converted to GeoJSON and TopoJSON for making your life easier.
 
 ## CDN
-By popular request, here are the links for using the files directly, using [RawGit](https://rawgit.com/):
+Here are the links for using the files directly, using [jsDelivr](https://www.jsdelivr.com):
 
 Àrea estadística:
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/area-estadistica/area-estadistica_geo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/area-estadistica/area-estadistica_geo.json
 ```
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/area-estadistica/area-estadistica_topo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/area-estadistica/area-estadistica_topo.json
 ```
 
 Àrea d'interès:
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/area-interes/area-interes_geo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/area-interes/area-interes_geo.json
 ```
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/area-interes/area-interes_topo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/area-interes/area-interes_topo.json
 ```
 
 Barris:
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/barris/barris_geo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/barris/barris_geo.json
 ```
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/barris/barris_topo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/barris/barris_topo.json
 ```
 
 Districtes:
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/districtes/districtes_geo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/districtes/districtes_geo.json
 ```
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/districtes/districtes_topo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/districtes/districtes_topo.json
 ```
 
 Secció censal:
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/seccio-censal/seccio-censal_geo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/seccio-censal/seccio-censal_geo.json
 ```
 ```
-https://cdn.rawgit.com/martgnz/bcn-geodata/master/seccio-censal/seccio-censal_topo.json
+https://cdn.jsdelivr.net/gh/molinx/bcn-geodata@latest/seccio-censal/seccio-censal_topo.json
 ```
 
 ## Recreate the files
