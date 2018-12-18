@@ -1,0 +1,13 @@
+{
+  "name": "bcn-geodata",
+  "version": "0.1.0",
+  "description": "BCN Geodata",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molinx/bcn-geodata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/molinx/bcn-geodata/issues"
+  },
+  "homepage": "https://github.com/molinx/bcn-geodata#readme"
+}
